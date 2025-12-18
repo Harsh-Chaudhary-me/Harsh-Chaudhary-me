@@ -48,10 +48,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Chaudhary-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Most Used Languages" />
   </a>
-  
- 
 
 <br/>
+
+<br />
+<div align="center">
+  <img src="https://github.com/Harsh-Chaudhary-me/Harsh-Chaudhary-me/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 
 
 
