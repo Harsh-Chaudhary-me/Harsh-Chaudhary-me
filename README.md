@@ -52,6 +52,12 @@
 <br/>
 
 <br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Chaudhary-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
+</div>
+
+<br />
 <div align="center">
   <img src="https://github.com/Harsh-Chaudhary-me/Harsh-Chaudhary-me/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
@@ -59,9 +65,3 @@
 
 
 
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Chaudhary-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
-</div>
