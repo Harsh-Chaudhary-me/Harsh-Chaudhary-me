@@ -32,7 +32,7 @@
 </div>
 
 <br />
-<h3 align="left">Things I code with</h3>
+<h3 align="left">Things I code with!!</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,&theme=dark" alt="My Skills" />
