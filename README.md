@@ -42,20 +42,20 @@
 
 <br/>
 
-<h3 align="left">Stats</h3>
+<!-- <h3 align="left">Stats</h3>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Chaudhary-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Most Used Languages" />
   </a>
 
-<br/>
+<br/> -->
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Chaudhary-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
-</div>
+</div> -->
 
 <br />
 <div align="center">
