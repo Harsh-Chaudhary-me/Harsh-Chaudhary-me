@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://portfolio.harshchaudhary.workers.dev/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
